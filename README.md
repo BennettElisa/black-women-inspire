@@ -34,7 +34,3 @@ Random quote with author name.
 # License
 
 MIT © Elisa Bennett
-
-## Keywords
-
-inspire | black women | black girls | random quotes | black history | inspirational quotes | encourage | uplift | quotes | quote | women
