@@ -3,7 +3,7 @@ Licensed Photo from [Adobe Stock](https://stock.adobe.com/)
 
 # 65 Inspiring Quotes from Black Women To Celebrate Black History Month
 
-In honor of Black History month here is a collected 65 inspiring quotes from Black women. Quotes range from civil-rights icons to writers, singers, poets, politicians, lawyers and influencers. All of these quotes will inspire you and help you seize each day with confidence, courage and self-love.
+> In honor of Black History month here is a collected 65 inspiring quotes from Black women. Quotes range from civil-rights icons to writers, singers, poets, politicians, lawyers and influencers. All of these quotes will inspire you and help you seize each day with confidence, courage and self-love.
 
 # Install using npm
 
