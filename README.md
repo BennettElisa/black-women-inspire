@@ -1,4 +1,4 @@
-![Black Women](portraitsOfWomen.jpeg)
+![image](portraits-of-women.jpeg)
 Licensed Photo from [Adobe Stock](https://stock.adobe.com/)
 
 # 65 Inspiring Quotes from Black Women To Celebrate Black History Month
@@ -37,4 +37,4 @@ MIT © Elisa Bennett
 
 ## Keywords
 
-inspire black women list random quotes black history inspirational strong
+inspire black women girls list random quotes history inspirational strong
