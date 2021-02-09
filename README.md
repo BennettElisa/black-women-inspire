@@ -37,4 +37,4 @@ MIT © Elisa Bennett
 
 ## Keywords
 
-inspire black women girls list random quotes history inspirational strong
+inspire | black women | black girls | random quotes | black history | inspirational quotes | encourage | uplift | quotes | quote | women
