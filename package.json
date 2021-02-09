@@ -1,0 +1,33 @@
+{
+  "name": "black-women-inspire",
+  "version": "1.0.0",
+  "description": "In honor of Black History month here is a collected 65 inspiring quotes from Black women. Quotes range from civil-rights icons to writers, singers, poets, politicians, lawyers and influencers. All of these quotes will inspire you and help you seizeeach day with confidence, courage and self-love.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BennettElisa/black-women-inspire.git"
+  },
+  "keywords": [
+    "inspire",
+    "black",
+    "women",
+    "black women",
+    "black girls",
+    "girl",
+    "quote",
+    "quotes",
+    "black history",
+    "inspirational quotes",
+    "uplift",
+    "encourage"
+  ],
+  "author": "Elisa Bennett <ohsoelisa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BennettElisa/black-women-inspire/issues"
+  },
+  "homepage": "https://github.com/BennettElisa/black-women-inspire#readme"
+}
