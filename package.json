@@ -1,7 +1,7 @@
 {
   "name": "black-women-inspire",
   "version": "1.0.0",
-  "description": "In honor of Black History month here is a collected 65 inspiring quotes from Black women. Quotes range from civil-rights icons to writers, singers, poets, politicians, lawyers and influencers. All of these quotes will inspire you and help you seizeeach day with confidence, courage and self-love.",
+  "description": "In honor of Black History month here is a collected 65 inspiruoting quotes from Black women.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -21,6 +21,7 @@
     "quotes",
     "black history",
     "inspirational quotes",
+    "random quotes",
     "uplift",
     "encourage"
   ],
