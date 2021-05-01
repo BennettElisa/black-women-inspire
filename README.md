@@ -1,9 +1,9 @@
 ![image](portraits-of-women.jpeg)
 Licensed Photo from [Adobe Stock](https://stock.adobe.com/)
 
-# 65 Inspiring Quotes from Black Women To Celebrate Black History Month
+# 65 Inspiring Quotes from Black Women
 
-> In honor of Black History month here is a collected 65 inspiring quotes from Black women. Quotes range from civil-rights icons to writers, singers, poets, politicians, lawyers and influencers. All of these quotes will inspire you and help you seize each day with confidence, courage and self-love.
+> A collection of 65 inspiring quotes from Black women. Quotes range from civil-rights icons to writers, singers, poets, politicians, lawyers and influencers. All of these quotes will inspire you and help you seize each day with confidence, courage and self-love.
 
 # Install using npm
 
@@ -21,6 +21,10 @@ blackWomenInspire.getQuote();
 
 blackWomenInspire.getQuote()
 // => "Am I good enough? Yes I am." - Michelle Obama
+
+blackWomenInspire.getQuoteAuthorNewLine()
+// => "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style."
+        - Maya Angelou
 ```
 
 # API
@@ -30,6 +34,12 @@ blackWomenInspire.getQuote()
 Type: `Function`
 
 Random quote with author name.
+
+.getQuoteAuthorNewLine()
+
+Type: `Function`
+
+Random quote with author name on new line.
 
 # License
 
