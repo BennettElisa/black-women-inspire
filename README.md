@@ -1,3 +1,4 @@
+(![npm](https://img.shields.io/npm/v/black-women-inspire?style=for-the-badge))
 ![image](portraits-of-women.jpeg)
 Licensed Photo from [Adobe Stock](https://stock.adobe.com/)
 
