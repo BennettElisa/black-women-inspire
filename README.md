@@ -30,13 +30,13 @@ blackWomenInspire.getQuoteAuthorNewLine()
 
 # API
 
-```.getQuote()```
+- ```.getQuote()```
 
 Type: `Function`
 
 Random quote with author name.
 
-```.getQuoteAuthorNewLine()```
+- ```.getQuoteAuthorNewLine()```
 
 Type: `Function`
 
