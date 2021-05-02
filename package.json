@@ -1,6 +1,6 @@
 {
   "name": "black-women-inspire",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A collected 65 inspiring quotes from Black women. Availble on the npm package registry to download for your own projects. All of these quotes will inspire you to seize each day with confidence, courage and self-love.  ❤️ ",
   "main": "index.js",
   "scripts": {
