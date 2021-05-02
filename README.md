@@ -23,9 +23,6 @@ blackWomenInspire.getQuote();
 blackWomenInspire.getQuote()
 // => "Am I good enough? Yes I am." - Michelle Obama
 
-blackWomenInspire.getQuoteAuthorNewLine()
-// => "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style."
-        - Maya Angelou
 ```
 
 # API
@@ -35,12 +32,6 @@ blackWomenInspire.getQuoteAuthorNewLine()
     Type: `Function`
 
     Random quote with author name.
-
-- ```.getQuoteAuthorNewLine()```
-
-    Type: `Function`
-
-    Random quote with author name on new line.
 
 # License
 
