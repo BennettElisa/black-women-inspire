@@ -23,6 +23,17 @@ blackWomenInspire.getQuote();
 blackWomenInspire.getQuote()
 // => "Am I good enough? Yes I am." - Michelle Obama
 
+blackWomenInspire.getArrayOfQuotes()
+// => [
+        {
+            quote: 'Success is liking yourself, liking what you do, and liking how you do it.',
+            author: 'Maya Angelou'
+        },
+        {
+            quote: 'You will be wounded many times in your life. You’ll make mistakes. Some people will call them failures but I have learned that failure is really God’s way of saying, “Excuse me, you’re moving in the wrong direction.” It’s just an experience, just an experience.',
+            author: 'Oprah Winfrey'
+        } .... ]
+
 ```
 
 # API
@@ -32,6 +43,13 @@ blackWomenInspire.getQuote()
     Type: `Function`
 
     Random quote with author name.
+
+- ```.getArrayOfQuotes()```
+
+    Type: `Function`
+
+    Returns an array with all the quotes. Each quote is an object with two properties - quote and author.
+
 
 # License
 
