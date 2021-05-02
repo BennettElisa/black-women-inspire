@@ -8,10 +8,9 @@ module.exports = {
         let randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
         return `"${randomQuote.quote.trim()}" - ${randomQuote.author}`;
     },
-    getQuoteAuthorNewLine: () => {
-        let randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-        return `"${randomQuote.quote.trim()}"
-        - ${randomQuote.author}`;
+    getArrayOfQuotes: () => {
+        let arrayOfQuotes = quotes;
+        return arrayOfQuotes;
     }
 
 }
