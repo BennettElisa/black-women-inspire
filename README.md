@@ -2,9 +2,9 @@
 ![image](portraits-of-women.jpeg)
 Licensed Photo from [Adobe Stock](https://stock.adobe.com/)
 
-# 65 Inspiring Quotes from Black Women
+# 70 Inspiring Quotes from Black Women
 
-> A collection of 65 inspiring quotes from Black women. Quotes range from civil-rights icons to writers, singers, poets, politicians, lawyers and influencers. All of these quotes will inspire you and help you seize each day with confidence, courage and self-love.
+> A collection of 70 inspiring quotes from Black women. Quotes range from civil-rights icons to writers, singers, poets, politicians, lawyers and influencers. All of these quotes will inspire you and help you seize each day with confidence, courage and self-love.
 
 # Install using npm
 
