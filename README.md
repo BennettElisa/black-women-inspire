@@ -14,7 +14,7 @@ npm install black-women-inspire
 
 # Usage
 
-```
+```js
 const blackWomenInspire = require('black-women-inspire')
 
 blackWomenInspire.getQuote();
@@ -24,7 +24,7 @@ blackWomenInspire.getQuote()
 // => "Am I good enough? Yes I am." - Michelle Obama
 
 blackWomenInspire.getArrayOfQuotes()
-// => [
+/* => [
         {
             quote: 'Success is liking yourself, liking what you do, and liking how you do it.',
             author: 'Maya Angelou'
@@ -33,7 +33,15 @@ blackWomenInspire.getArrayOfQuotes()
             quote: 'You will be wounded many times in your life. You’ll make mistakes. Some people will call them failures but I have learned that failure is really God’s way of saying, “Excuse me, you’re moving in the wrong direction.” It’s just an experience, just an experience.',
             author: 'Oprah Winfrey'
         } .... ]
-
+*/
+blackWomenInspire.getMultipleQuotes(3)
+/* => 
+    [
+        `"You cannot live to please everyone else. You have to edify, educate and fulfill your own dreams and destiny, and hope that whatever your art is that you're putting out there, if it's received, great, I respect you got receiving it. If it's not received, great, I respect you for not." - Octavia Spencer`,
+        '"Never work just for money or for power. They won’t save your soul or help you sleep at night." - Marian Wright Edelman',
+        `"I'd rather regret the risks that didn't work out than the chances I didn't take at all." - Simone Biles`
+    ]
+*/
 ```
 
 # API
@@ -49,7 +57,12 @@ blackWomenInspire.getArrayOfQuotes()
     Type: `Function`
 
     Returns an array with all the quotes. Each quote is an object with two properties - quote and author.
+- ```.getMultipleQuotes(numberOfQuotes)```
 
+    Type: `Function`
+    arguments : `numberOfQuotes` - number of quotes to return.
+
+    Returns an array with multiple quotes. Each quote is an object with two properties - quote and author.
 
 # License
 
