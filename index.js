@@ -16,7 +16,11 @@ module.exports = {
         let randomQuotes = []; 
         for (let i = 0; i < numberOfQuotes; i++) {
             let randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
-            randomQuotes.push(`\"${randomQuote.quote.trim()}" - ${randomQuote.author}`);
+            if (randomQuotes.includes(randomQuote)) {
+                i--;
+            } else {
+                randomQuotes.push(`\"${randomQuote.quote.trim()}" - ${randomQuote.author}`);
+            }
         } 
         return randomQuotes;
     }   
